@@ -1,0 +1,3 @@
+[submodule "loggregator-api"]
+	path = loggregator-api
+	url = https://github.com/cloudfoundry/loggregator-api
